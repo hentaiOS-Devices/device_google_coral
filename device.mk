@@ -16,6 +16,9 @@
 
 LOCAL_PATH := device/google/coral
 
+# Don't build super partition
+PRODUCT_BUILD_SUPER_PARTITION := false
+
 PRODUCT_VENDOR_MOVE_ENABLED := true
 
 PRODUCT_SOONG_NAMESPACES += \

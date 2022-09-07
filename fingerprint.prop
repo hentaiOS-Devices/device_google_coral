@@ -1,0 +1,2 @@
+# Device mask
+ro.build.fingerprint=google/coral/coral:13/TP1A.220624.014/8819323:user/release-keys
