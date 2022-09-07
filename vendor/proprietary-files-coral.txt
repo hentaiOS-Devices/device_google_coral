@@ -1,0 +1,2 @@
+# Camera extensions
+product/app/PixelCameraServicesCoral/PixelCameraServicesCoral.apk;PRESIGNED

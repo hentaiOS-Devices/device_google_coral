@@ -1,0 +1,2 @@
+# Camera extensions
+product/app/PixelCameraServicesFlame/PixelCameraServicesFlame.apk;PRESIGNED
